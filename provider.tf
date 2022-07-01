@@ -1,4 +1,4 @@
-# provider details on which plant form we want to provision these resources
+# provider details on which plant region we want to provision these resources
 terraform {
     required_providers {
         aws = {
