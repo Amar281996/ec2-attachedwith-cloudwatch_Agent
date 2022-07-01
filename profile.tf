@@ -1,3 +1,5 @@
+#create locals to specify the roles and policy's
+
 locals {
   role_policy_arns = [
     "arn:aws:iam::aws:policy/service-role/AmazonEC2RoleforSSM",
